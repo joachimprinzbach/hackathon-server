@@ -1,0 +1,852 @@
+[
+  {
+    "index": 0,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,175.30",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Jenkins",
+      "last": "Howard"
+    },
+    "hotelName": "EXOZENT Hotel",
+    "email": "jenkins.howard@undefined.biz",
+    "phone": "+1 (808) 578-3546",
+    "address": "219 Pershing Loop, Nescatunga, Tennessee, 7285",
+    "latitude": "-18.085608",
+    "longitude": "-78.474205",
+    "rating": 4
+  },
+  {
+    "index": 1,
+    "picture": "http://placehold.it/32x32",
+    "price": "$974.99",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Lara",
+      "last": "Weaver"
+    },
+    "hotelName": "CORMORAN Hotel",
+    "email": "lara.weaver@undefined.io",
+    "phone": "+1 (879) 456-3084",
+    "address": "294 Dumont Avenue, Santel, Kansas, 7791",
+    "latitude": "77.366625",
+    "longitude": "-115.24232",
+    "rating": 10
+  },
+  {
+    "index": 2,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,215.39",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Jacobson",
+      "last": "Rose"
+    },
+    "hotelName": "ZYTREX Hotel",
+    "email": "jacobson.rose@undefined.co.uk",
+    "phone": "+1 (800) 434-3556",
+    "address": "617 Kosciusko Street, Loretto, Missouri, 1168",
+    "latitude": "27.719952",
+    "longitude": "-24.310818",
+    "rating": 2
+  },
+  {
+    "index": 3,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,584.32",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Le",
+      "last": "Frye"
+    },
+    "hotelName": "PLASTO Hotel",
+    "email": "le.frye@undefined.net",
+    "phone": "+1 (935) 487-2764",
+    "address": "866 Whitwell Place, Ruffin, Puerto Rico, 3800",
+    "latitude": "54.344661",
+    "longitude": "142.627437",
+    "rating": 3
+  },
+  {
+    "index": 4,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,137.66",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Sparks",
+      "last": "Nelson"
+    },
+    "hotelName": "FILODYNE Hotel",
+    "email": "sparks.nelson@undefined.tv",
+    "phone": "+1 (893) 466-3407",
+    "address": "243 Baltic Street, Walton, Arizona, 3942",
+    "latitude": "-30.468419",
+    "longitude": "-173.992861",
+    "rating": 9
+  },
+  {
+    "index": 5,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,391.64",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Deena",
+      "last": "Dodson"
+    },
+    "hotelName": "POLARIA Hotel",
+    "email": "deena.dodson@undefined.name",
+    "phone": "+1 (997) 449-3584",
+    "address": "874 Duryea Place, Winchester, Virginia, 1898",
+    "latitude": "79.364556",
+    "longitude": "154.070378",
+    "rating": 2
+  },
+  {
+    "index": 6,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,039.56",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Maricela",
+      "last": "Irwin"
+    },
+    "hotelName": "GEOFORMA Hotel",
+    "email": "maricela.irwin@undefined.us",
+    "phone": "+1 (862) 542-3878",
+    "address": "593 Lincoln Terrace, Brewster, Connecticut, 4632",
+    "latitude": "-33.199304",
+    "longitude": "163.778581",
+    "rating": 5
+  },
+  {
+    "index": 7,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,174.26",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Darcy",
+      "last": "Farmer"
+    },
+    "hotelName": "OPTYK Hotel",
+    "email": "darcy.farmer@undefined.com",
+    "phone": "+1 (879) 541-2425",
+    "address": "790 Winthrop Street, Calverton, Alabama, 2080",
+    "latitude": "-41.359507",
+    "longitude": "-0.934246",
+    "rating": 1
+  },
+  {
+    "index": 8,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,574.26",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Jewel",
+      "last": "Glover"
+    },
+    "hotelName": "ORBAXTER Hotel",
+    "email": "jewel.glover@undefined.me",
+    "phone": "+1 (899) 506-3969",
+    "address": "222 Vernon Avenue, Levant, New Jersey, 4081",
+    "latitude": "-88.974341",
+    "longitude": "-5.019236",
+    "rating": 5
+  },
+  {
+    "index": 9,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,002.98",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Mariana",
+      "last": "Rojas"
+    },
+    "hotelName": "ZOINAGE Hotel",
+    "email": "mariana.rojas@undefined.biz",
+    "phone": "+1 (940) 581-2232",
+    "address": "463 Beach Place, Fairmount, Texas, 5255",
+    "latitude": "-62.581782",
+    "longitude": "-98.836391",
+    "rating": 7
+  },
+  {
+    "index": 10,
+    "picture": "http://placehold.it/32x32",
+    "price": "$923.42",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Reed",
+      "last": "Donaldson"
+    },
+    "hotelName": "VICON Hotel",
+    "email": "reed.donaldson@undefined.org",
+    "phone": "+1 (907) 424-2415",
+    "address": "907 Nassau Street, Volta, Nebraska, 5809",
+    "latitude": "42.599095",
+    "longitude": "-21.62253",
+    "rating": 1
+  },
+  {
+    "index": 11,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,474.66",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Kris",
+      "last": "Bridges"
+    },
+    "hotelName": "PUSHCART Hotel",
+    "email": "kris.bridges@undefined.ca",
+    "phone": "+1 (961) 468-3285",
+    "address": "272 Prescott Place, Gwynn, Iowa, 7004",
+    "latitude": "-50.09345",
+    "longitude": "-148.743023",
+    "rating": 8
+  },
+  {
+    "index": 12,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,445.84",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Violet",
+      "last": "Blackwell"
+    },
+    "hotelName": "EXOTECHNO Hotel",
+    "email": "violet.blackwell@undefined.biz",
+    "phone": "+1 (951) 469-3798",
+    "address": "960 Elmwood Avenue, Garfield, Guam, 8090",
+    "latitude": "31.287101",
+    "longitude": "-35.49707",
+    "rating": 5
+  },
+  {
+    "index": 13,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,561.52",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Anita",
+      "last": "Kerr"
+    },
+    "hotelName": "PROXSOFT Hotel",
+    "email": "anita.kerr@undefined.io",
+    "phone": "+1 (801) 573-3091",
+    "address": "516 Poplar Street, Moraida, New Mexico, 4874",
+    "latitude": "0.692756",
+    "longitude": "-27.998796",
+    "rating": 1
+  },
+  {
+    "index": 14,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,097.71",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Nichole",
+      "last": "Collier"
+    },
+    "hotelName": "EQUITAX Hotel",
+    "email": "nichole.collier@undefined.co.uk",
+    "phone": "+1 (863) 464-2049",
+    "address": "596 Schenck Court, Juarez, Pennsylvania, 5992",
+    "latitude": "80.567105",
+    "longitude": "165.230536",
+    "rating": 7
+  },
+  {
+    "index": 15,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,492.62",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Whitney",
+      "last": "Mcbride"
+    },
+    "hotelName": "FITCORE Hotel",
+    "email": "whitney.mcbride@undefined.net",
+    "phone": "+1 (931) 428-3027",
+    "address": "212 Centre Street, Frizzleburg, Florida, 5038",
+    "latitude": "-36.145165",
+    "longitude": "-143.805297",
+    "rating": 10
+  },
+  {
+    "index": 16,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,263.29",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Gloria",
+      "last": "Castro"
+    },
+    "hotelName": "PROTODYNE Hotel",
+    "email": "gloria.castro@undefined.tv",
+    "phone": "+1 (910) 401-2981",
+    "address": "778 Schenck Place, Finzel, Palau, 5179",
+    "latitude": "-81.529597",
+    "longitude": "126.301815",
+    "rating": 10
+  },
+  {
+    "index": 17,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,350.70",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Lynda",
+      "last": "Roberts"
+    },
+    "hotelName": "CORPORANA Hotel",
+    "email": "lynda.roberts@undefined.name",
+    "phone": "+1 (946) 512-2321",
+    "address": "461 Coles Street, Bloomington, Rhode Island, 3062",
+    "latitude": "-7.497728",
+    "longitude": "6.123932",
+    "rating": 10
+  },
+  {
+    "index": 18,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,494.20",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Armstrong",
+      "last": "Mccoy"
+    },
+    "hotelName": "FANFARE Hotel",
+    "email": "armstrong.mccoy@undefined.us",
+    "phone": "+1 (987) 470-3867",
+    "address": "587 Ferris Street, Flintville, Maine, 7521",
+    "latitude": "67.114195",
+    "longitude": "-63.798711",
+    "rating": 10
+  },
+  {
+    "index": 19,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,230.19",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Shelley",
+      "last": "Lang"
+    },
+    "hotelName": "SEALOUD Hotel",
+    "email": "shelley.lang@undefined.com",
+    "phone": "+1 (992) 467-2952",
+    "address": "824 Bethel Loop, Soham, Louisiana, 8385",
+    "latitude": "88.089603",
+    "longitude": "-178.660656",
+    "rating": 10
+  },
+  {
+    "index": 20,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,185.87",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Lester",
+      "last": "Sweeney"
+    },
+    "hotelName": "ELEMANTRA Hotel",
+    "email": "lester.sweeney@undefined.me",
+    "phone": "+1 (895) 445-2502",
+    "address": "683 Huron Street, Belva, Colorado, 8745",
+    "latitude": "74.969304",
+    "longitude": "-128.867415",
+    "rating": 6
+  },
+  {
+    "index": 21,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,596.08",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Waller",
+      "last": "Compton"
+    },
+    "hotelName": "QUAILCOM Hotel",
+    "email": "waller.compton@undefined.biz",
+    "phone": "+1 (824) 510-3855",
+    "address": "283 Perry Place, Kraemer, Minnesota, 3491",
+    "latitude": "-42.659722",
+    "longitude": "164.309631",
+    "rating": 1
+  },
+  {
+    "index": 22,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,075.73",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Parrish",
+      "last": "Witt"
+    },
+    "hotelName": "SUREPLEX Hotel",
+    "email": "parrish.witt@undefined.org",
+    "phone": "+1 (814) 404-3074",
+    "address": "616 Ocean Court, Day, Oklahoma, 1245",
+    "latitude": "38.642716",
+    "longitude": "143.602311",
+    "rating": 1
+  },
+  {
+    "index": 23,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,255.19",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Lessie",
+      "last": "Hatfield"
+    },
+    "hotelName": "CIPROMOX Hotel",
+    "email": "lessie.hatfield@undefined.ca",
+    "phone": "+1 (865) 489-3569",
+    "address": "192 Ash Street, Wattsville, District Of Columbia, 5948",
+    "latitude": "83.423994",
+    "longitude": "-153.38943",
+    "rating": 5
+  },
+  {
+    "index": 24,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,132.05",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Singleton",
+      "last": "Yang"
+    },
+    "hotelName": "PLASMOSIS Hotel",
+    "email": "singleton.yang@undefined.biz",
+    "phone": "+1 (996) 513-2738",
+    "address": "692 Montgomery Place, Jugtown, West Virginia, 3653",
+    "latitude": "16.538606",
+    "longitude": "-7.09261",
+    "rating": 3
+  },
+  {
+    "index": 25,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,420.83",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Elba",
+      "last": "Boyd"
+    },
+    "hotelName": "GEEKMOSIS Hotel",
+    "email": "elba.boyd@undefined.io",
+    "phone": "+1 (971) 423-3578",
+    "address": "402 Beaumont Street, Dubois, Montana, 4887",
+    "latitude": "11.248777",
+    "longitude": "100.473343",
+    "rating": 6
+  },
+  {
+    "index": 26,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,579.74",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Elvia",
+      "last": "Mcclure"
+    },
+    "hotelName": "GEEKOSIS Hotel",
+    "email": "elvia.mcclure@undefined.co.uk",
+    "phone": "+1 (937) 482-2232",
+    "address": "111 Seabring Street, Turpin, Illinois, 4456",
+    "latitude": "-62.768931",
+    "longitude": "142.005355",
+    "rating": 7
+  },
+  {
+    "index": 27,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,581.83",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Garza",
+      "last": "Rollins"
+    },
+    "hotelName": "RADIANTIX Hotel",
+    "email": "garza.rollins@undefined.net",
+    "phone": "+1 (978) 404-2888",
+    "address": "365 Coventry Road, Blue, American Samoa, 3205",
+    "latitude": "37.42332",
+    "longitude": "1.728456",
+    "rating": 6
+  },
+  {
+    "index": 28,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,340.70",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Wagner",
+      "last": "Montoya"
+    },
+    "hotelName": "XTH Hotel",
+    "email": "wagner.montoya@undefined.tv",
+    "phone": "+1 (901) 493-2150",
+    "address": "403 Crystal Street, Hamilton, Wyoming, 8121",
+    "latitude": "-88.487924",
+    "longitude": "-122.108269",
+    "rating": 8
+  },
+  {
+    "index": 29,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,272.71",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Rebekah",
+      "last": "Walsh"
+    },
+    "hotelName": "SURETECH Hotel",
+    "email": "rebekah.walsh@undefined.name",
+    "phone": "+1 (871) 566-2727",
+    "address": "526 Cass Place, Wakarusa, North Dakota, 4554",
+    "latitude": "-34.863287",
+    "longitude": "149.687646",
+    "rating": 7
+  },
+  {
+    "index": 30,
+    "picture": "http://placehold.it/32x32",
+    "price": "$967.00",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Judy",
+      "last": "Hester"
+    },
+    "hotelName": "CALCULA Hotel",
+    "email": "judy.hester@undefined.us",
+    "phone": "+1 (933) 446-3291",
+    "address": "767 Seagate Avenue, Needmore, Georgia, 1868",
+    "latitude": "-18.446526",
+    "longitude": "87.475559",
+    "rating": 2
+  },
+  {
+    "index": 31,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,479.88",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Raquel",
+      "last": "Williamson"
+    },
+    "hotelName": "ASSISTIX Hotel",
+    "email": "raquel.williamson@undefined.com",
+    "phone": "+1 (926) 494-3520",
+    "address": "535 Celeste Court, Downsville, California, 6096",
+    "latitude": "-49.800045",
+    "longitude": "142.33063",
+    "rating": 2
+  },
+  {
+    "index": 32,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,566.00",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Reese",
+      "last": "Guerra"
+    },
+    "hotelName": "COLUMELLA Hotel",
+    "email": "reese.guerra@undefined.me",
+    "phone": "+1 (952) 452-3879",
+    "address": "496 Irvington Place, Cleary, Indiana, 6626",
+    "latitude": "6.192413",
+    "longitude": "-20.288547",
+    "rating": 4
+  },
+  {
+    "index": 33,
+    "picture": "http://placehold.it/32x32",
+    "price": "$969.41",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Lindsay",
+      "last": "Todd"
+    },
+    "hotelName": "QABOOS Hotel",
+    "email": "lindsay.todd@undefined.biz",
+    "phone": "+1 (834) 552-2063",
+    "address": "226 Miller Place, Roberts, New Hampshire, 267",
+    "latitude": "77.497774",
+    "longitude": "122.199026",
+    "rating": 7
+  },
+  {
+    "index": 34,
+    "picture": "http://placehold.it/32x32",
+    "price": "$994.86",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Peggy",
+      "last": "Burgess"
+    },
+    "hotelName": "VELITY Hotel",
+    "email": "peggy.burgess@undefined.org",
+    "phone": "+1 (953) 512-2659",
+    "address": "678 Emmons Avenue, Keller, New York, 6482",
+    "latitude": "-58.537161",
+    "longitude": "-82.624964",
+    "rating": 4
+  },
+  {
+    "index": 35,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,001.95",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Gonzalez",
+      "last": "Wood"
+    },
+    "hotelName": "PATHWAYS Hotel",
+    "email": "gonzalez.wood@undefined.ca",
+    "phone": "+1 (943) 542-3971",
+    "address": "883 Bushwick Court, Gibsonia, Vermont, 7099",
+    "latitude": "-52.303596",
+    "longitude": "74.167051",
+    "rating": 7
+  },
+  {
+    "index": 36,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,455.10",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Simone",
+      "last": "Vega"
+    },
+    "hotelName": "MEDCOM Hotel",
+    "email": "simone.vega@undefined.biz",
+    "phone": "+1 (907) 401-3697",
+    "address": "309 Ocean Parkway, Coaldale, Virgin Islands, 2781",
+    "latitude": "66.362028",
+    "longitude": "-29.181808",
+    "rating": 6
+  },
+  {
+    "index": 37,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,305.88",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Allie",
+      "last": "Webster"
+    },
+    "hotelName": "SONIQUE Hotel",
+    "email": "allie.webster@undefined.io",
+    "phone": "+1 (830) 592-2678",
+    "address": "283 Portal Street, Stewartville, South Dakota, 2636",
+    "latitude": "-43.333241",
+    "longitude": "93.573096",
+    "rating": 3
+  },
+  {
+    "index": 38,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,496.94",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Watkins",
+      "last": "Mueller"
+    },
+    "hotelName": "VERTON Hotel",
+    "email": "watkins.mueller@undefined.co.uk",
+    "phone": "+1 (806) 555-2230",
+    "address": "882 Veterans Avenue, Greer, Utah, 2624",
+    "latitude": "27.165442",
+    "longitude": "50.045217",
+    "rating": 8
+  },
+  {
+    "index": 39,
+    "picture": "http://placehold.it/32x32",
+    "price": "$959.90",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Velez",
+      "last": "Kirk"
+    },
+    "hotelName": "HOMETOWN Hotel",
+    "email": "velez.kirk@undefined.net",
+    "phone": "+1 (885) 588-2277",
+    "address": "395 Aurelia Court, Tonopah, Massachusetts, 182",
+    "latitude": "-13.813834",
+    "longitude": "155.4769",
+    "rating": 2
+  },
+  {
+    "index": 40,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,269.48",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Janice",
+      "last": "Sheppard"
+    },
+    "hotelName": "DOGSPA Hotel",
+    "email": "janice.sheppard@undefined.tv",
+    "phone": "+1 (811) 529-2295",
+    "address": "714 Sunnyside Court, Evergreen, Ohio, 7980",
+    "latitude": "3.57641",
+    "longitude": "-56.008801",
+    "rating": 1
+  },
+  {
+    "index": 41,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,529.40",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Lelia",
+      "last": "Alvarez"
+    },
+    "hotelName": "PYRAMIS Hotel",
+    "email": "lelia.alvarez@undefined.name",
+    "phone": "+1 (917) 532-2420",
+    "address": "313 Bath Avenue, Cade, North Carolina, 6391",
+    "latitude": "-27.182965",
+    "longitude": "105.194565",
+    "rating": 2
+  },
+  {
+    "index": 42,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,039.06",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Lawrence",
+      "last": "Phelps"
+    },
+    "hotelName": "ADORNICA Hotel",
+    "email": "lawrence.phelps@undefined.us",
+    "phone": "+1 (923) 461-3866",
+    "address": "747 Clermont Avenue, Faywood, Arkansas, 7124",
+    "latitude": "-41.944437",
+    "longitude": "-6.046299",
+    "rating": 8
+  },
+  {
+    "index": 43,
+    "picture": "http://placehold.it/32x32",
+    "price": "$979.36",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Carmella",
+      "last": "Myers"
+    },
+    "hotelName": "PREMIANT Hotel",
+    "email": "carmella.myers@undefined.com",
+    "phone": "+1 (965) 418-3819",
+    "address": "308 Dahill Road, Byrnedale, Northern Mariana Islands, 1406",
+    "latitude": "41.393891",
+    "longitude": "-127.618354",
+    "rating": 1
+  },
+  {
+    "index": 44,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,166.51",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Helga",
+      "last": "Shaw"
+    },
+    "hotelName": "DANCITY Hotel",
+    "email": "helga.shaw@undefined.me",
+    "phone": "+1 (997) 430-3124",
+    "address": "285 Kathleen Court, Troy, Maryland, 1188",
+    "latitude": "66.258838",
+    "longitude": "-52.494596",
+    "rating": 3
+  },
+  {
+    "index": 45,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,202.73",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Mcintosh",
+      "last": "Mcgee"
+    },
+    "hotelName": "OVERFORK Hotel",
+    "email": "mcintosh.mcgee@undefined.biz",
+    "phone": "+1 (914) 402-3667",
+    "address": "655 Fulton Street, Stagecoach, Federated States Of Micronesia, 7788",
+    "latitude": "-69.003253",
+    "longitude": "-108.872035",
+    "rating": 3
+  },
+  {
+    "index": 46,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,388.08",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Margery",
+      "last": "Reilly"
+    },
+    "hotelName": "GLEAMINK Hotel",
+    "email": "margery.reilly@undefined.org",
+    "phone": "+1 (904) 552-2316",
+    "address": "552 Christopher Avenue, Cumberland, Delaware, 1072",
+    "latitude": "77.266283",
+    "longitude": "163.076206",
+    "rating": 5
+  },
+  {
+    "index": 47,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,212.29",
+    "isSingleRoom": false,
+    "name": {
+      "first": "Beard",
+      "last": "Baker"
+    },
+    "hotelName": "ZILLACTIC Hotel",
+    "email": "beard.baker@undefined.ca",
+    "phone": "+1 (863) 455-2351",
+    "address": "618 Pine Street, Neahkahnie, Mississippi, 5746",
+    "latitude": "-47.115259",
+    "longitude": "-98.384383",
+    "rating": 3
+  },
+  {
+    "index": 48,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,151.33",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Wallace",
+      "last": "Dunlap"
+    },
+    "hotelName": "SQUISH Hotel",
+    "email": "wallace.dunlap@undefined.biz",
+    "phone": "+1 (916) 474-2171",
+    "address": "753 Crooke Avenue, Rote, Nevada, 2969",
+    "latitude": "-72.675921",
+    "longitude": "52.915888",
+    "rating": 4
+  },
+  {
+    "index": 49,
+    "picture": "http://placehold.it/32x32",
+    "price": "$1,428.01",
+    "isSingleRoom": true,
+    "name": {
+      "first": "Bernadine",
+      "last": "Wilkins"
+    },
+    "hotelName": "MIXERS Hotel",
+    "email": "bernadine.wilkins@undefined.io",
+    "phone": "+1 (918) 565-2864",
+    "address": "599 Gotham Avenue, Brantleyville, Oregon, 7177",
+    "latitude": "-36.411577",
+    "longitude": "167.832444",
+    "rating": 6
+  }
+]
