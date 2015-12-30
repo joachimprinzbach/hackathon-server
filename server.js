@@ -17,8 +17,6 @@ app.get('/locations', function (req, res) {
     res.json(locations);
 });
 
-app.get('/locations')
-
 var server = app.listen(1337, function () {
     var host = server.address().address;
     var port = server.address().port;
