@@ -1,16 +1,13 @@
 var express = require('express');
 var fs = require('fs');
 var app = express();
+var cors = require('cors');
 
 app.get('/', function (req, res) {
     res.send('Hello World!');
 });
 
-app.all('/', function (req, res, next) {
-    res.header("Access-Control-Allow-Origin", "*");
-    res.header("Access-Control-Allow-Headers", "X-Requested-With");
-    next();
-});
+app.use(cors());
 
 app.get('/locations', function (req, res) {
     var locations = JSON.parse(fs.readFileSync('locations.json', 'utf8'));

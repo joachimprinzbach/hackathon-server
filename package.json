@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/webplatformz/hackathon-server#readme",
   "dependencies": {
+    "cors": "^2.7.1",
     "express": "^4.13.4"
   }
 }
